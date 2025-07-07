@@ -1,1 +1,663 @@
 # Glossary
+
+### Nouns & Phrases
+
+plagiarism - copying - infringement/violation of copyright in literature- literary theft - 
+corridor - passage/passageway - hallway
+turbulence
+volatility - fluctuation
+circumstance
+shortage (of sth) - lack - scarcity - insufficiency
+brain drain - the emigration of highly trained or intelligent people from a particular country
+merit - excellence - competence - worth - value - eligibility
+process - procedure - operation - a series of actions/steps
+rubric - topic
+mobility - movability - ability to move (or be moved freely and easily)
+abacus
+thermometer
+parachute
+velocity - pace - speed - rate
+acquaintance - familiarity - knowledge - experience
+anticipation - expectation - prediction
+endeavor - defeat - failure
+substitute - replacement
+storey - level - row
+salvation - rescue - conservation - being saved or rescued
+salvation - redemption - deliverance from sin and its consequences - opposite of damnation
+thoroughfare - road - path
+distinction - difference - contrast
+imitation - falsification - distortion - sth that's faked or copied
+assertion - claim - allegation - statement
+deterioration - the process of becoming progressively worse
+composition - the nature of something's ingredients or constituents - the way in which a whole or mixture is made up
+quarrel - a serious protracted argument/disagreement
+etiquette - politeness - good/proper/acceptable behavior - good manner
+palate - taste - desire
+-
+spanning six decades
+cuisine - food
+welfare amenities
+breakthrough - development
+popularity - reputation - fame
+outmoded technology
+occasion - a particular time/opportunity/coincidence 
+regulation - legislation - rules
+infrastructure - substructure - base - foundation
+monarchy - kingship
+sovereign - king - monarch
+dynasty - a line of hereditary rulers - line - lineage - house - bloodline
+intrigue - conspiracy
+target market
+stereotype
+side road
+sales figures
+-
+descent - decline - fall - collapse - downturn - downtrend - downward trend - downfall - decrease
+ascent - uptrend - upturn - upward trend - uprise - increase - rise - plummet
+-
+labor-saving activities
+roundabout - square
+modern-day life
+technological advances 
+exposure
+principle - truth - concept - rule - belief 
+principle ways of doing sth
+criterion - criteria - principle - standard - measure - benchmark - touchstone
+proportion (of sth) - portion
+propensity - tendency - inclination
+prosperity - success - the state of being successful, thriving, or flourishing
+poverty - the state of being extremely poor - deprivation
+stimulation - motivation - incentive
+joint-lowest
+joint-highest
+expenditure - expense - cost
+observation - remark - statement - comment
+prominence - fame - supremacy - superiority - influence - recognition - salience
+run-through
+advantages - positives - on the upside - benefits - on the plus side - pros
+disadvantages - negatives - on the downside - drawbacks - problems - issues - cons
+acumen - acuity
+implication - indication
+implication - concept - notion - meaning
+fragment - piece
+assertion - confident statement or claim
+curriculum - syllabus - course of study/studies
+fulfillment
+contentment - happiness - satisfaction
+agriculture - farming - cultivation
+plowing
+planting - implant
+irrigation
+harvest
+novelty - newness
+uniqueness
+obsolescence - the process of becoming obsolete or outdated and no longer used
+appliance - device - equipment
+journalist - reporter
+media outlet - news agency
+rioter - troublemaker - a person who takes part in a riot or violent public disturbance
+looter - thief - robber - mugger - plunderer - marauder - a person who steals goods typically during the war or riot
+faculty - department
+profession - occupation - job - career
+inheritor - descendant - successor
+emergence - appearance - arrival
+a shift (towards sth)
+layout (of a place, e.g. library)
+pension (scheme) - retirement salary/payment
+scheme - plan - program
+burden - load - bar - weight - charge
+cohesion - unity - continuity - togetherness - solidarity - bond
+concourse - lobby - hall - foyer
+run-through - rehearsal - a practice or trial performance of a play or other work for later public performance
+outline - scheme - shape - form - figure - design - layout
+run-through - (brief) outline - summary
+heretic - nonconformist - dissenter - person who holds beliefs or opinions that go against the accepted or official beliefs
+scrutiny - inspection - investigation - exploration - research - observation - examination
+a steep rise
+infancy - early stages - babyhood
+agenda - a list of items to be discussed at a formal meeting
+circulation
+convention - established or customary ways of behaving, acting, or doing things
+convention - agreement - contract - treaty - protocol
+hackathon
+norm - something that is usual, typical, or standard (esp. in culture)
+recipe
+busking - the activity of playing music in the street or another public place for voluntary donations
+controversy - dispute - disagreement - argument - debate
+debate - formal discussion or argument
+debut - a person's first appearance, performance or experience in a particular capacity or role
+indifference
+repairman
+credibility - credit - validity - reliability - reputation
+deterrence - the action of discouraging an action or event through instilling doubt or fear of the consequences
+proponent - advocate - supporter
+ambiance/ambience - atmosphere - surroundings - environment
+prospect (of sth) - likelihood (of sth) - possibility (of sth)
+livelihood - (means of) living - existence
+perspective - outlook - view - viewpoint - point of view - angle (of view)
+extrovert - opposite to introvert
+obesity - the state of being fat/overweight - fatness
+nest - home (of a bird or other animal)
+diameter - a straight line passing from side to side through the center of a body or figure, like a circle or sphere
+geometry
+instinct - an innate fixed pattern of behavior in animals
+sanctuary - a place of refuge or safety - shelter
+buster - destroyer - eliminator - vanquisher - breaker - crusher - smasher - wrecker - demolisher
+turnover - (gross) revenue - income - financial cycle
+misconduct - misbehavior - unacceptable or improper behavior
+
+---
+
+### Verbs
+
+amend - revised - improve - adjust - alter - change
+excel - shine - get better (at sth)
+adhere (to sth) - stick (to sth) - believe and follow (sth)
+reassert
+advert (to sth)- refer (to sth) - note (sth)
+strain - put pressure on or to overburden sth/sb - force sb to make great effort (for sth)
+absorb sth - take sth in
+occupy - reside - inhabit - be located in - take up space in
+stabilize - become stable/steady/neutral/consistent
+compel - force - oblige
+contribute to sth - play a part in sth - help to cause sth
+hamper - hinder - obstruct - impede - barricade - prevent - block
+spread out
+discard - throw away - get rid of (sth)
+reinforce - strengthen - bolster - fortify
+dismiss (sth) - let go (of sth) - send away
+opt for (sth) - select - choose - pick 
+merit - deserve - be worthy of
+anticipate - expect
+vie - compete - fight
+accelerate
+evaporate - vaporize - turn from liquid into vapor
+centrifuge - break up - separate
+pour into sth - feed into sth
+foster - encourage - develop - grow
+halve
+draw
+suggest to sb - recommend sth (to sb) - recommend sb sth - advise (that)
+-
+strive - make great efforts to achieve or obtain sth - try - attempt - endeavor
+attain - achieve - accomplish - reach - obtain
+derive - obtain - get - take - gain - acquire
+obtain - gather - accumulate
+amass - accumulate - aggregate - assemble - gather - collect - store (up)
+-
+exaggerate - overstate - overemphasize
+intimidate - frighten - menace - terrify - scare - alarm - terrorize
+conduct (sth e.g. a research) - organize - carry out
+demand (for sth)
+salvage - rescue - save
+abdicate - renounce one's throne
+renounce - reject - refuse to abide by - refuse to recognize - formally declare one's abandonment of (a claim, right, or possession)
+denounce - condemn - criticize - incriminate - publicly declare to be wrong or evil
+intrigue - conspire
+seize - usurp - take hold of (sth) suddenly and forcibly
+vandalize - destroy - damage
+dabble - take part in an activity in a casual or superficial way
+litter - make (a place) untidy with rubbish or other objects
+spark - bring up - cause
+domineer - tyrannize
+replace (sth) for (sth else)
+house - store - accommodate 
+contrast (with sth)
+pollinate - fertilization process in plants
+incorporate - include - combine something as part of a whole
+cater (to sth) - provide (sth)
+assess - evaluate
+subvert - bring down - overthrow - overturn - overset
+distinguish - differentiate - set apart
+infer
+decay - decompose
+dominate
+allocate - devote - assign - dedicate - spend - distribute
+dispense - distribute
+maul - (of an animal) wound (a person or animal) by scratching and tearing.
+tailor
+boast - talk or represent sth with excessive pride/self-satisfaction - sing one's own praises
+imitate - mimic - copy
+justify
+constrain - impose - force - limit - restrict
+convey (the idea/purpose of sth) - pass on
+imply - point out - hint - mention - convey - nudge
+boast - talk or show with excessive pride
+originate - arise - emanate 
+recruit
+impend - affect
+enlist
+-
+build - develop - put up - erect - construct
+alter - change - replace - relocate - convert
+renovate
+modernize
+expand - extend - enlarge - make/become bigger or more extensive - magnify
+remove - demolish - knock down - tear down - flatten
+-
+show - depict - illustrate - demonstrate - indicate - set out - imply
+-
+dip - decline - fall - collapse - drop - decrease - crash - plummet - descend
+-
+tolerate - bear - stand - withstand - sustain - endure
+sustain - hold - keep - maintain - retain - preserve
+give way (to sth) - give one's place to sth - be replaced with sth
+elaborate (on sth) - explain in details
+accustom (to sth) - adapt (to sth) - get used to (sth)
+exhibit - display - represent - expose
+be exposed to sth - be subject to sth - be affected to sth
+expose sb/sth to sb/sth
+cope with (sth) - deal with (sth)
+be based on (sth) - be inspired by (sth)
+embrace - accept - support 
+encompass - embrace - surround - hold within
+aspect - attribute - quality
+pay off
+dispense with sth - get rid of sth
+contradict - controvert - deny
+deface - spoil - wipe out
+cease (to do sth) - stop - come to an end
+account for sth - make up sth - constitute sth - comprise sth
+make up for sth - compensate for a loss/mistake
+boast - have - possess
+evoke - bring to mind
+recession - economic decline
+mortgage - a loan or an amount of money borrowed specifically to buy property
+go bust - go bankrupt
+put a stop/an end to sth
+overlook - neglect - fail to notice - fail to care/look for (sth) - miss
+outskirt
+necessitate
+broadcast
+participate - take part - engage - get involved
+prominent - notable - noteworthy - eminent - important - outstanding - distinguished - prestigious - renowned
+favor sth - prefer sth
+foreground - make sth (look) important/prominent
+prescribe - (of a medical practitioner) advise and authorize the use of a medicine or treatment for sb
+self-medication - self-treatment - over-the-counter drug use - unsupervised medication - non-prescribed drug use
+look (sth) up (online) - search (for sth online)
+undertake - tackle - take (sth, e.g. a task/responsibility) on (oneself) - accept (a task/responsibility)
+position - put - place - locate - situate - site
+run through (an area)
+mitigate - alleviate - reduce - lessen - weaken - relieve - lighten - ease - soften - diminish
+engage with sth (e.g. a story) - relate to sth
+intend (to do/say sth) - be willing to do/say sth
+exploit - make full use of and derive benefit from sth (e.g. a resource) - utilize - turn/put to (good) use - make the most of sth
+transmit - hand/pass on (from one person to another) - transfer
+correspond (to sth) - have a close similarity (with sth) - match up (with sth) - correlate (with sth) - be compatible (with sth) - accord with sth
+outline - draw, trace, or define the outer edge or shape of sth
+outline - give a summary of sth
+bore out
+make space/room (for sth)
+smooth down (the surface of sth)
+embody (sth) - give human form/shape to sth - give a tangible or visible form to sth
+hand down (sth to someone)
+integrate (into/with sth) - combine - merge
+comply with (sth)
+despise - hate - contemn - feel contempt or a deep repugnance for sb/sth
+dearth (of sth)
+opt for sth
+oppress - repress - suppress - crack down - crush - persecute
+oppress - tyrannize
+obliterate - destroy utterly - wipe out
+dismantle - disassemble - deconstruct - take down - take (sth) to parts/pieces (NOT diminish)
+dim - darken - obscure
+commute - travel - go back and forth (to/from a place) - make the trip (to/from a place)
+procrastinate - postpone - delay - put off (doing sth)
+nest - (of a bird or other animal) build a home/nest
+perceive - understand - comprehend - take in - become aware (of sth) - find out (about sth)
+retrench - cut off jobs - fire employees/staff in a company
+prosecute - institute legal proceedings against (a person or organization)
+evacuate - move out - remove - make sth/swh clear or empty
+expel (sb) - throw out - deprive (sth from sth such as education)
+deprive (sb) - strip sb from their right or possession
+regulate - control - manage - adjust - balance - tune - synchronize
+incline - have a tendency to do sth - be willing to do sth - be disposed towards sth
+appoint - assign - designate
+
+
+---
+
+### Adjectives 
+
+clumsy - awkward
+seamless
+immature - opposite of mature
+mature - fully developed - full-grown - having reached the most advanced stage in a process - opposite of immature
+amateur - nonprofessional - nonspecialist - incompetent - unskillful - unskilled - inexpert - inept
+ambient - relating to the environment/surroundings (of sth)
+fierce
+flattered - glad - happy
+demographic - relating to the structure of populations (e.g. a demographic imbalance between young and old population - a demographic shift from young to aged population)
+immense - great - large - enormous - tremendous
+multi-functional
+right-hand/left-hand (side)
+integral - essential - fundamental 
+complementary - supplementary
+avid - keen - eager - enthusiastic
+conceivable - imaginable - possible - thinkable - feasible
+reluctant - unwilling - hesitant - disinclined - unenthusiastic
+adequate - sufficient - enough - appropriate - satisfactory - acceptable
+inadequate - insufficient - not enough - inappropriate - dissatisfactory - unacceptable
+substandard
+interconnected (parts/networks)
+far-reaching (influence/effect) - extensive
+widespread - prevalent - extensive
+it didn't live up to my expectations - disappointing
+gorgeous - stunning - exquisite - dazzling
+convenient - proper - suitable - appropriate - fitting
+amicable - friendly
+constantly - continuously - persistently - without a break
+phenomenal - exceptional - extraordinary - remarkable - outstanding - amazing - astonishing - astounding - stunning - staggering - marvelous - magnificent - wonderful - sensational - breathtaking - miraculous - singular - incredible - impressive
+horrifying - terrifying - gruesome - frightening
+apprehensive - anxious - on edge
+renowned - iconic - famous
+tough - challenging - heavy going
+prolific - fertile - productive - plentiful
+conventional - common - regular - ordinary - usual - typical
+idiomatic - using/containing/denoting expressions that are natural to a native speaker
+attainable - obtainable - achievable
+hypothetical (situations)
+bizarre - eccentric - weird
+intact - undamaged - unimpaired - unharmed
+irreversible
+desperate
+disparate - different - unlike - unalike - contrasting
+thorough - complete
+fast-paced (world)
+immersive (world)
+high-profile (professions)
+bemused - confused
+vibrant - full of energy and enthusiasm
+globalized - developed so as to have international influence
+substantial - significant - considerable - remarkable - notable - striking
+steep - sheer - sharp
+wary - cautious - careful
+contemporary - (of a person or incident) living or happening at the same era/time as another
+peculiar - strange - odd - unusual
+observable
+spacious - big - large
+sheer - utter - unmitigated - total - absolute (used for emphasis)
+prosperous - flourishing - successful
+versatile - adaptable - flexible
+tedious - boring - monotonous
+salient - important - notable - principal - main
+subsequent - following - succeeding - upcoming
+consecutive - sequential - chronological
+ubiquitous - present everywhere
+broad - vast - wide
+occasional - occurring frequently and irregularly 
+preoccupied (with sth) - paying too much attention to sth - lost in thought of sth - distracted by sth
+constant - occurring continuously - steady - permanent 
+intimate - closely acquainted - familiar - close
+compelling
+protracted - prolonged - extended
+crucial - vital - essential - necessary - consequential
+inconsequential - unimportant - neither here nor there
+qualify - be eligible - meet the requirements
+functional - operational - in operation - in use
+mandatory - compulsory - obligatory
+evident - clear - obvious - apparent - noticeable - visible - observable  
+explicit - obvious - straightforward
+novel - new - modern
+premature
+lucrative - beneficial - profitable
+unanimous - united - in complete agreement - of one mind
+abdominal (pain) - stomachic - relating to the abdomen/stomach - gastric
+steep - sharp - fast - abrupt
+profound - deep - extreme 
+heretical - against sth (e.g. accepted beliefs, opinions or doctrines)
+distinctive - (clearly) different - particular - unique - special
+lunar - related to the moon
+unresolved - not yet settled, solved, or decided - not resolved
+dominant
+in-depth - deep - thorough - complete
+man-made (e.g. disasters)
+selective
+nationwide
+gripping - exciting
+intriguing - fascinating
+utter (e.g. It's utter garbage)
+fuzzy - blurry - unclear - indistinct
+unprecedented - never done, seen or known before - unheard - unexampled
+dull - out-dated - old-fashioned
+sensible
+supportive (plans)
+mutual - bilateral - two-sided - two-way
+not-so-distant (future) - not so far - near
+rational - reasonable - logical
+virtuous - righteous - high-minded - chaste
+devastating - highly destructive/damaging
+inconclusive - resultless - not leading to a firm conclusion - not ending doubt or dispute
+preliminary
+dim - dark - obscure
+intuitive - instinctive - sensory
+baffled - confused - perplexed - bewildered - stumped - mystified - flustered
+extrovert - opposite to introvert
+hectic - full of activity - busy - frantic
+sarcastic - ironic - mocking
+contemptuous - scornful
+
+---
+
+### Adverbs
+
+likewise - similarly - also 
+subsequently - later on - thereafter - afterward
+consequently
+sequentially
+aptly - appropriately
+conclusively - in a decisive/definite way
+progressively - continuously
+abruptly - suddenly
+predictably
+steadily - consistently
+sharply - dramatically - significantly - markedly - noticeably - notably - substantially
+primarily
+essentially - fundamentally
+first and foremost - firstly
+marginally - slightly
+narrowly
+immensely - to a great extent - extremely
+admittedly
+predominantly - mainly - mostly
+ultimately - finally
+conversely - in a contrasting way
+apparently - seemingly - supposedly
+clearly - undoubtedly - evidently
+conceivably - arguably - feasibly - possibly
+virtually - nearly - almost
+solely - only
+instantaneously - instantly - immediately - at once - straight away - right away
+exponentially 
+broadly - in general and with the exception of minor details - widely - extensively
+briefly - for a short time - fleetingly
+roughly - approximately - about - nearly
+meanwhile - meantime
+radically - in a thorough or fundamental way - completely
+relatively - in comparison to others - comparatively - somewhat - proportionally
+allegedly - apparently - reportedly - supposedly - presumably
+vividly - in an intensely deep or bright manner
+frankly - honestly - directly - in an open, honest, and direct manner
+
+
+---
+
+### Discourse Markers
+
+likewise
+by contrast
+by way of example - for instance - for example - to give a specific example
+moving on to - turning (next) to 
+for the purpose of this data set 
+what is more - in addition - furthermore - moreover
+whereas - whilst - in contrast or comparison with the fact that
+having said that - That said - whilst - on the other hand - 
+by this I mean
+generally speaking
+weighing up both sides of the argument
+nevertheless - in spite of that - despite that - nonetheless - even so - yet - but - however - still
+on the grounds that
+to build upon my point
+looking at it from another point of view
+in a nutshell - in the end - to sum up - to put it in a nutshell
+above all else - most importantly
+by and large - generally speaking - for the most part - altogether - overall
+from where I stand - as far as I'm concerned
+moving on to - moving next to - turning next to
+one of the most striking features (of sth) is that - what stands out is that
+on the top of sth - in addition to sth
+at the touch of a button
+with sth in mind
+by doing so
+over recent years in particular - recently
+
+---
+
+### Expressions
+
+roll the dice
+skate on thin ice
+take the bull by the horns - to confront a problem head-on and deal with it directly
+to address sth (a subject) - to solve sth
+read between the lines - try to understand a text
+sth bores me stupid/ to tears/ to death
+lead the way in terms of sth
+account for a sizable proportion of the total - at (a figure)
+sth is in its infancy - sth is in its early stages - virtual reality is only in its infancy - it is only in it's infancy
+lean towards the latter - agree with the second/last argument
+travel a little further afield - visit somewhere a little more distant 
+i remember sth very vividly - I have strong memories of sth
+dating back to my childhood - ever since I was a child 
+a short boat ride away - close to visit by boat 
+it's worlds apart from sth - it's very different to sth
+go further afield - go a long/longer distance away
+spark both concern and curiosity - Cause both concern and curiosity
+stumbling over your words
+going round in circles
+losing your thread
+laboring the point
+beating about the bush
+talking at a mile a minute
+make a profit
+launch/release a product
+apply for a loan
+close a deal
+file for bankruptcy
+make/come up with/devise a plan
+something bores sb stupid/to tears/to death
+it holds so much appeal - people like it so much
+without having to deal with the hassle of sth - without having the problem of sth
+there's no substitute for (sth, e.g. heading to the store) - the best way to shop is always by going to (the store)
+point sb in the right direction - help and give sb good advice
+it benefited me a great deal - it was so/very beneficial for me
+the desecration of a grave
+the overall trend is clearly one of decline
+it evokes strong feelings of nostalgia/sympathy/sadness
+it leaves me cold - it's senseless
+it's too abstract for my taste
+i'm not sure what to make of this one
+i'm not sure what the artist is trying to convey
+it made a great impression on me
+take sth into account - factor in or include something when making a decision, judgment, or calculation
+take sth into consideration - consider/think about sth carefully before making a decision
+the meeting is due to finish now
+be/become reliant on sm/sth
+be keen the do sth
+come at a price
+prioritize sth above sth else (all the other concerns)
+feel a sense of reward
+go through sth (e.g. a career)
+secure one's future
+be/become preoccupied with sth
+be worth sth
+talk sb into sth - persuade - convince
+be at the cost of sth
+out of this world - impressive - it took my breath away - phenomenal
+i really like how - I love the way that - what pleased me the most was - my favorite part was
+i have butterflies in my stomach - i'm anxious
+it was a fact of life
+come over to one's side
+run through sth (the street)
+flood through
+hand (sth) out to sb
+stay in debt 
+stay in credit
+come across (from somewhere e.g. east/other side of the wall)
+make history
+keep in contact with sb
+draw attention - attract attention
+keep in touch/contact with sb
+have some degree of basic knowledge in sth
+(of sth) be done at the expense of sth
+cross one's mind
+(of one's mind) go blank
+break a story - get a scoop
+be in favor of sth
+(be) followed in second place by sth
+it more than lived up to my expectations - It delivered more than promised - It went above and beyond - it exceeded my expectations
+a wealth of sth (e.g. tasks) - a wide range/variety of sth
+i can take it or leave it - i'm neutral about it
+i watched it in one sitting - i loved it
+it gave me food for thought - it got me thinking - it occupied my mind - it stuck in my mind
+it was nothing to write home about
+it had me on the edge of my seat - it was so thrilling/exciting
+it's not my cup of tea - it doesn't match my taste
+i was glued to the screen - i couldn't take my eyes off it
+it more than lived up to my expectations
+compulsive viewing - must-watch
+a definite 5-star rating
+let me put that another way
+tie in place (at top/bottom)
+feel nostalgia (for sth)
+-
+a steep rise (e.g. There was a steep rise in the first trend, coupled with a dramatic decline in the second trend)
+one's formative years - one's growing/development years
+-
+the most salient feature (of the chart) is that ...
+the overall trend shown in the data is (a steep rise in ...)
+the 100-year period saw a marked fall in agriculture and fishing sectors
+what I meant to say was ...
+let me elaborate on that - let me explain - let me clarify that
+to put that another way, ...
+
+
+---
+
+
+### Grammar & tips
+
+- ==As== computer processing power ==increases== - ==so== ==will== it's potential to enhance everything we do.
+- I ==believe== we will probably become more dependent on computers ==but that== our lives will improve as the technology improves.
+- Science is something we all need ==some degree of== ==basic knowledge== in.
+- ==To what degree== - is the culture the defining influence in people's identity?
+- One major difference between the UK and Brazil - is that ==over twice as many people== read the news in prints in the ==former== - compared with the ==letter==.
+- Listening to the news on the radio is preferred by ==three times more== people in the UK ==than== in Brazil.
+- In some countries - the television is the ==dominant== first news provider.
+- The fact that no one in the society would have to worry about medical bills ==more than justifies== having free health care service.
+- I try to ==keep== my ==intake of junk food== ==down to a minimum==
+- Many people initially ==dismissed== ==social media== as ==a passing fashion==
+- It is a huge change from the way this communication happened in the past
+- As computer processing power increases, so will its potential to enhance everything we do.
+- The risk of hacking exposes us to crimes such as fraud.
+- Over the past few decades, the pace of technological advancement has increased exponentially.
+- The identities they create are more individual and subtle, with the wider range of influences.
+- Culture is a fuzzy set of behavioral conventions that are shared by group of people.
+- President Trump said, "But we've also reasserted the credibility of American deterrence"
+
+
+Prepositions of place 
+- on the right/left (side)
+- in the corner 
+- you can enter the kitchen via the reception room
+- the cloakroom is adjacent to the ballroom 
+- standing at the foot of staircase 
+- at the back of the house
+
+
+
+> Shall I talk you through what you've been studying in science this week?
+> This way you can catch up on the work you missed when you were off sick
+
+> I would say that TV is in part to blame for violence in society.
+> Let me elaborate on that. There is a tendency for TV to glamorize violence and make it seem cool.
